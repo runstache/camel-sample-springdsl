@@ -1,2 +1,2 @@
-# camel-sample-springdsl
-Sample Spring DSL Project
+# Sample Project for Spring DSL & Camel 
+Sample project for Camel/Spring using Annotations
